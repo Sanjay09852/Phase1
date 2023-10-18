@@ -1,2 +1,2 @@
-# Phase1
+# Fake news detection using npl
 Fake news detection using npl
